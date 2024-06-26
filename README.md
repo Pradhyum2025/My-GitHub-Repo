@@ -1,2 +1,2 @@
 # My-GitHub-Repo
-This is  related learning of repository files.
+This is demo class related to learning of repository files.
